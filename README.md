@@ -1,4 +1,5 @@
-shouryashah05/shouryashah05# 💫 About Me:
+# Hey 👋, I'm Shourya Shah
+## 💫 About Me:
 I’m a Fullstack Developer, ML engineer and UI/UX Designer passionate about crafting beautiful, intuitive digital experiences.
 
 My passion is combining design and psychology to build valuable solutions, while constantly studying future tech like Web3 and Quantum Computing (Qiskit).
