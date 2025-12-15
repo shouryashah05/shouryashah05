@@ -1,4 +1,6 @@
 # Hey 👋, I'm Shourya Shah
+<p align="center"><img width="264" height="300" alt="Open Peeps - Bust" src="https://github.com/user-attachments/assets/a6347050-8c6b-4ae0-b4c6-8d873765757e" /></p>
+
 ## 💫 About Me:
 I’m a Fullstack Developer, ML engineer and UI/UX Designer passionate about crafting beautiful, intuitive digital experiences.
 
