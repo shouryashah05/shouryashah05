@@ -34,4 +34,4 @@ Supporting me helps me dedicate more time to these free, high-quality projects!
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1uLq-3wp-bDiwa-hvcKu13BkVzRF9H_WL?usp=sharing" download>Download My Resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008AEE&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009AEE&height=120&section=footer" alt="footer"/>
